@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "alesser82.github.io/foodmeappdeploy/static/css/main.522d5c44.chunk.css",
-    "main.js": "alesser82.github.io/foodmeappdeploy/static/js/main.ec4f5ec2.chunk.js",
-    "main.js.map": "alesser82.github.io/foodmeappdeploy/static/js/main.ec4f5ec2.chunk.js.map",
-    "runtime-main.js": "alesser82.github.io/foodmeappdeploy/static/js/runtime-main.66bda44b.js",
-    "runtime-main.js.map": "alesser82.github.io/foodmeappdeploy/static/js/runtime-main.66bda44b.js.map",
-    "static/js/2.0d9593d7.chunk.js": "alesser82.github.io/foodmeappdeploy/static/js/2.0d9593d7.chunk.js",
-    "static/js/2.0d9593d7.chunk.js.map": "alesser82.github.io/foodmeappdeploy/static/js/2.0d9593d7.chunk.js.map",
-    "index.html": "alesser82.github.io/foodmeappdeploy/index.html",
-    "precache-manifest.7b049284afd1072072d69314b2c896de.js": "alesser82.github.io/foodmeappdeploy/precache-manifest.7b049284afd1072072d69314b2c896de.js",
-    "service-worker.js": "alesser82.github.io/foodmeappdeploy/service-worker.js",
-    "static/css/main.522d5c44.chunk.css.map": "alesser82.github.io/foodmeappdeploy/static/css/main.522d5c44.chunk.css.map",
-    "static/media/aneka-makanan.jpg": "alesser82.github.io/foodmeappdeploy/static/media/aneka-makanan.2eceeef0.jpg"
+    "main.css": "./static/css/main.522d5c44.chunk.css",
+    "main.js": "./static/js/main.9f22dbb0.chunk.js",
+    "main.js.map": "./static/js/main.9f22dbb0.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b38deb40.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b38deb40.js.map",
+    "static/js/2.99864bca.chunk.js": "./static/js/2.99864bca.chunk.js",
+    "static/js/2.99864bca.chunk.js.map": "./static/js/2.99864bca.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.9cf0a08f364e4043819992376afdd630.js": "./precache-manifest.9cf0a08f364e4043819992376afdd630.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.522d5c44.chunk.css.map": "./static/css/main.522d5c44.chunk.css.map",
+    "static/media/aneka-makanan.jpg": "./static/media/aneka-makanan.2eceeef0.jpg"
   }
 }
