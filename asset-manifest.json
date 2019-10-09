@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.522d5c44.chunk.css",
+    "main.js": "./static/js/main.9b9db86f.chunk.js",
+    "main.js.map": "./static/js/main.9b9db86f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b38deb40.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b38deb40.js.map",
+    "static/js/2.99864bca.chunk.js": "./static/js/2.99864bca.chunk.js",
+    "static/js/2.99864bca.chunk.js.map": "./static/js/2.99864bca.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.566384d436a540913a980efff4934b3b.js": "./precache-manifest.566384d436a540913a980efff4934b3b.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.522d5c44.chunk.css.map": "./static/css/main.522d5c44.chunk.css.map",
+    "static/media/aneka-makanan.jpg": "./static/media/aneka-makanan.2eceeef0.jpg"
+  }
+}
